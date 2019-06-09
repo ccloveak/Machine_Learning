@@ -5,7 +5,7 @@
 3. Hope i can optimize programming work with tensorflow.
 ***
 ## Current Progress
-1. Completed week2 week3 programming work with matlab.
+1. Completed week4 programming work with matlab.
 
 ***
 ## Thanks
